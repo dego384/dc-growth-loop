@@ -1,0 +1,19 @@
+# Credentials - NEVER commit!
+CREDENTIALS.local
+.env.local
+*.key
+*.pem
+
+# System
+.obsidian/workspace.json
+.DS_Store
+Thumbs.db
+
+# Kommandozentrale-check (Sub-Helper Worktree)
+Kommandozentrale-check/
+
+# Node/IDE
+node_modules/
+.vscode/
+.idea/
+*.log
